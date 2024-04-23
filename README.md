@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ekaymon
 - 👀 I’m interested in C and Python coding, batch scrpiting, ethical hacking
-- 🌱 I’m currently learning networking
+- 🌱 I’m currently doing CS50
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: they/them
